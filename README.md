@@ -21,6 +21,7 @@ Developed by: Bristo AK
 RegisterNumber:   212225230037
 */
 ```
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
@@ -63,7 +64,6 @@ plt.xlabel("Annual Income (k$)")
 plt.ylabel("Spending Score (1-100)")
 plt.legend()
 plt.show()
-```
 ```
 
 ## Output:
